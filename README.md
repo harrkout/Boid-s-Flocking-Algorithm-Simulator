@@ -10,7 +10,7 @@ The project uses the **Pygame** library to create a graphical environment and ha
 
 
 
-![img](/home/harrkout/uni/Computational_Intelligence/Artificial Neural Networks/Classic_Boid_Simulator/img.png)
+![img](/img.png)
 
 
 
