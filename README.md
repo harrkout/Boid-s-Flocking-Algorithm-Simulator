@@ -10,7 +10,7 @@ The project uses the **Pygame** library to create a graphical environment and ha
 
 
 
-![img](/img.png)
+![img](/boid_simple.gif)
 
 
 
